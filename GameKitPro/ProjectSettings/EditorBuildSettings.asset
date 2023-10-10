@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/3DGamekit/Scenes/Start.unity
+    guid: 57df1e417250bc247976c2c0dc088efe
+  - enabled: 0
+    path: Assets/3DGamekit/Scenes/GamePlay/Level1.unity
+    guid: ed46e53182fb08b4482fd3c4a75bc631
+  - enabled: 0
+    path: Assets/3DGamekit/Scenes/GamePlay/Level2.unity
+    guid: bfc86215544d6ab42b838135fdd17f21
+  - enabled: 1
+    path: Assets/Runtiime Asset Database Demo Scene.unity
+    guid: ac8b4015c319b91449960897d0d03bc6
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: a24ff30c2a0839643a6fe6c894313825,
+      type: 2}

@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-direction: row; justify-content: space-between; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px; height: 25px;">
+        <ui:Toggle text="Type" style="flex-shrink: 1; width: auto; align-items: auto; flex-basis: initial; -unity-text-align: upper-left;" />
+        <ui:Label text="Namespace" display-tooltip-when-elided="true" name="ns-label" style="justify-content: flex-start; align-items: flex-start; -unity-text-align: middle-center;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,1480 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0707c5df765dbdf46addaa8da3eda10c
+  m_SerializeEntries:
+  - m_GUID: 24b3cf5e007db204db421522f1ec1592
+    m_Address: Assets/Demo/Materials/Environment/Rock/SmallRocks_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 517fdc3ad188e2947bce9eb161557065
+    m_Address: Assets/Demo/Materials/Environment/Rock/Distant_Terrain_01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3a1c0abc6434d724f86a321dcf7bf14e
+    m_Address: Assets/Demo/Materials/Environment/Monuments/Monument01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f4dfbbdd7ed824e71bf39cb0dafd2b99
+    m_Address: Assets/Demo/Materials/Environment/Ground/Default_Ground_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f1db0e18306a14eac8b473c35a96988f
+    m_Address: Assets/Demo/Materials/Environment/Ground/Ground_Fog_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 61be5fb840b83854a95a1ef4982462cd
+    m_Address: Assets/Demo/Materials/Environment/Ground/Mud_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9f1e1e6c36df17a48b610353e7d0bc21
+    m_Address: Assets/Demo/Materials/Environment/Ground/Moss_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4e52d60d78135194ca4e88aba0f0d171
+    m_Address: Assets/Demo/Materials/Interactables/KeyCrystal_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 23c331343ae5d9446a33883d61111401
+    m_Address: Assets/Demo/Materials/Interactables/Key_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: c90acb39326143642a25b630416a7c8a
+    m_Address: Assets/Demo/Materials/Interactables/Box_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 26ac4cde285117148acca917dc54b4ac
+    m_Address: Assets/Demo/Materials/Interactables/WeaponPedestal_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: bc9add680f5479b4c92e1e22e00c3687
+    m_Address: Assets/Demo/Materials/Interactables/BoxDissolve_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 213f29d8077200a489882139504e451d
+    m_Address: Assets/Demo/Materials/Interactables/BoxBreakable_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 25f432de59fe988418cf97841b36936a
+    m_Address: Assets/Demo/Materials/Interactables/Switch_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d2968c12d6b9eda44a52f373439dc527
+    m_Address: Assets/Demo/Materials/Interactables/HealthBox_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d1ceeaadc3450694eafc85a314039392
+    m_Address: Assets/Demo/Materials/Interactables/PressurePad_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 022a0b8394af9d343acfc52bf61093cd
+    m_Address: Assets/Demo/Materials/Interactables/Crystal_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f967e5a118c1dd743944e59fe844540f
+    m_Address: Assets/Demo/Materials/Interactables/Crystal_Blue_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 1239c38ae75849340833da4e5feeb7f6
+    m_Address: Assets/Demo/Materials/Skybox/Planets/Planet_01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4bb099678310a5343870dadb083f69dc
+    m_Address: Assets/Demo/Materials/Skybox/Planets/Planet_02_Mat1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6c84c19482e854549a946cb7c6719918
+    m_Address: Assets/Demo/Materials/Skybox/Clouds/Cloud_03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 89f7f061773639845a049221e81eb0b7
+    m_Address: Assets/Demo/Materials/Skybox/Clouds/Cloud_04_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: ca0252daff6993a4a85bb29469559a64
+    m_Address: Assets/Demo/Materials/Skybox/Clouds/Cloud_05_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a1a5a38f2eb83f14488a9ba2576cc7eb
+    m_Address: Assets/Demo/Materials/Skybox/Clouds/Cloud_02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 197d1bf7fcff009419ab56837d7c95ef
+    m_Address: Assets/Demo/Materials/Skybox/Clouds/Cloud_01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 0e974c7294e486e4cb42482e61c0c4de
+    m_Address: Assets/Demo/Materials/Weapons/Staff_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: cdd1dda890977a24b8597b566bc084de
+    m_Address: Assets/Demo/Materials/Weapons/Pistol_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3ac2dd7eaceaa504dbb1b175fcef06a2
+    m_Address: Assets/Demo/Enemies/Spitter/Spitter.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 71a1be879433fcb46b1fb72b19e392ef
+    m_Address: Assets/Demo/Enemies/Grenadier/Grenadier.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e9569c7e13e51264082910415a120d38
+    m_Address: Assets/Demo/Enemies/Chomper/Chomper.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 360e769726970954fb7f09b03b970ab4
+    m_Address: Assets/Demo/Skybox.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4b73e4c9bf4fbed4ebf109e325462d8e
+    m_Address: Assets/Demo/Clouds.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 51b925cc4194f418382c47381895838b
+    m_Address: Assets/Demo/Water/GroundFog.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 77c3c714c5cf34274ad66163db745111
+    m_Address: Assets/Demo/Water/Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 0a184feab9d4a3c47be093de5e9e2964
+    m_Address: Assets/Demo/Water/WaterTemplate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f8b565dbb4e633842941cde9af7a298d
+    m_Address: Assets/Demo/VegetationS/GroundCover03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6128b9c23bce4ab4185fd268c8ad826b
+    m_Address: Assets/Demo/VegetationS/GroundCover01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a83847ca8d555bb4e9ba717847feec23
+    m_Address: Assets/Demo/VegetationS/VegetationSmall04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f7510917c44a4c840bc4687b6d531960
+    m_Address: Assets/Demo/VegetationS/GroundCover02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 80ec04de8ca5f3c4bb7f5a3aa5bc6e50
+    m_Address: Assets/Demo/VegetationS/FungusClump.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3714fce1577e6e14cba26ab6374b275b
+    m_Address: Assets/Demo/VegetationS/VegetationSmall02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: cdfb686de96ee57479ec834151e92dc1
+    m_Address: Assets/Demo/VegetationS/HangingMoss02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d66ed9ac2f766354885fbaa272ee5834
+    m_Address: Assets/Demo/VegetationS/VegetationSmall01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 099391ff8179c184e9a0915369d510c9
+    m_Address: Assets/Demo/VegetationS/HangingVine.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 54e289309e0b92e4ab28726b701eca5d
+    m_Address: Assets/Demo/VegetationS/VegetationSmall07.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e0a5b2236c38da748b0cbee3c47e4aaf
+    m_Address: Assets/Demo/VegetationS/VegetationSmall06.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d268c0138f5bef44d8b114beeaa180e9
+    m_Address: Assets/Demo/VegetationS/VegetationSmall03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 8ce8dbafa28a4cb46b6800f9a7e33063
+    m_Address: Assets/Demo/VegetationS/VegetationSmall05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: b659379892c8fe14ba1bfeb32da28b02
+    m_Address: Assets/Demo/VegetationS/VegetationSmall04V2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a6ad53baa2518884f92e462d7fe49d97
+    m_Address: Assets/Demo/VegetationS/VegetationSmall07V2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9b8df7c46ccbb2c4fa6b4f347d8ae03f
+    m_Address: Assets/Demo/VegetationS/VegetationSmall01V2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6142654b010d6dc459fa3ae46952d387
+    m_Address: Assets/Demo/VegetationS/VegetationSmall07V3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 87aac285f156b63498c272a037a71035
+    m_Address: Assets/Demo/VegetationS/VegetationSmall05V2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 395057d57eb3b024fb28e524153e18e1
+    m_Address: Assets/Demo/VegetationS/VegetationSmall03V2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: ecbe345ff03e0c44998eeb25021403e6
+    m_Address: Assets/Demo/VegetationS/Fungus01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: c69d2e51574d96e4eb5095db331c067f
+    m_Address: Assets/Demo/VegetationS/Fungus01Red.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e0abcb501ebfe9d448d76f79cc949346
+    m_Address: Assets/Demo/VegetationS/Fungus02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 884876aaf65c8924ab476595929f1aa9
+    m_Address: Assets/Demo/VegetationS/Fungus02Red.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e8b3ea9c4827c604d8f61a0397c54144
+    m_Address: Assets/Demo/VegetationS/Fungus03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4d372ceefb5acf74e87eab2e9769afe9
+    m_Address: Assets/Demo/VegetationS/Fungus03Red.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: c132dfac2b95fa049a50e9e2752a2323
+    m_Address: Assets/Demo/VegetationS/FungusClumpRed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 60958dcb911cd9346babe468d1bec37f
+    m_Address: Assets/Demo/VegetationM/VegetationMedium03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3f871828595545f41a71228f6cc340f6
+    m_Address: Assets/Demo/VegetationM/VegetationMedium04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: bb31d5a9ddc0f6743bc747957d6d432d
+    m_Address: Assets/Demo/VegetationM/VegetationMedium01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a22891e901a3e0c479f33a5f489c2ab5
+    m_Address: Assets/Demo/VegetationM/VegetationMedium02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 85a926525e0c62d449cd48e8db587169
+    m_Address: Assets/Demo/VegetationM/VegetationMedium05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f06b50c23b0d2d24d98c707088d809d2
+    m_Address: Assets/Demo/VegetationL/VegetationLarge05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: eeb105ae356d5a44d89468632f77c0ce
+    m_Address: Assets/Demo/VegetationL/VegetationLarge07.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e17c4c17f1c6dc74c9f7bb87a502c8bf
+    m_Address: Assets/Demo/VegetationL/VegetationLarge03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: aed6f0b54f9d3054d94ac7c91c13d127
+    m_Address: Assets/Demo/VegetationL/VegetationLarge03V2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 7a12e3f917bdb89448780bd75691e69d
+    m_Address: Assets/Demo/VegetationL/VegetationLarge02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e3054131e2f508a48add53172a2a890a
+    m_Address: Assets/Demo/VegetationL/VegetationLarge05V2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 791d41129e96cc04790f3beb0a7af459
+    m_Address: Assets/Demo/VegetationL/VegetationLarge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f5d39a49ff4d26543993ef8caa8f7c42
+    m_Address: Assets/Demo/VegetationL/VegetationLarge04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4ed5b4c0647d8f146bdef7b8ecc7a5d4
+    m_Address: Assets/Demo/VegetationL/VegetationLarge01V2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 8cb2fe045c5bfa74e84ed22d0d385258
+    m_Address: Assets/Demo/VegetationL/VegetationLarge06.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: b436bc42939f2fc4e9807f0ed8923764
+    m_Address: Assets/Demo/Structures/Wall0x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e7a4e183d1e7204459f2dab44d1cf267
+    m_Address: Assets/Demo/Structures/Platform3x3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 51dac81114a33fa4eb11bec9d55faf4d
+    m_Address: Assets/Demo/Structures/Wall2x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6e41d056fd5e469478d7f69d67a3e373
+    m_Address: Assets/Demo/Structures/Platform1x1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: cf5c497dab271a94ea67c68a4ff17901
+    m_Address: Assets/Demo/Structures/GateWayHugeTeleporter.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: cd9d38fe02d610649a1f40af6aec3cb1
+    m_Address: Assets/Demo/Structures/GateWayHugeDoor.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: cf4cc12d2fec2c14c8dda8420db93530
+    m_Address: Assets/Demo/Structures/Platform2x2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3e3603dc08a3daa4b8699229140efeca
+    m_Address: Assets/Demo/Structures/StairsWide2x2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: eb38f993650df74408c22d45f14ae53f
+    m_Address: Assets/Demo/Structures/Bridge.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9dfb4d4b59a36244f9aa8d6c42106d59
+    m_Address: Assets/Demo/Structures/Wall4x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: db51fa5c15b1dbf42812c3b3491ecfff
+    m_Address: Assets/Demo/Structures/Wall1x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 8dc4b663b9f9ae44cba6b06979c22815
+    m_Address: Assets/Demo/Structures/Platform4x4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 82c82825caae7fc4b8d035258c4d5e67
+    m_Address: Assets/Demo/Structures/AlienStatue01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: baa384bbe02a0244ab6980c9c4934d18
+    m_Address: Assets/Demo/Structures/DoorHuge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: cb1f9ccd4709a6a4fa6246174e138841
+    m_Address: Assets/Demo/Structures/FloorCircular01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 02e172803b5fa024487b5eb0bc865815
+    m_Address: Assets/Demo/Structures/GateWayHuge.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 7190bf9459f4449459a780122cc1b374
+    m_Address: Assets/Demo/Structures/Pillar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 028acb2b7611253449763293a6ee1322
+    m_Address: Assets/Demo/Structures/PlatformTall4x1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: b4e48c5b9cdd5264b853db1e3776d502
+    m_Address: Assets/Demo/Structures/StairsWide1x1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 1bc3be109e808d14298ed81bdf260081
+    m_Address: Assets/Demo/Structures/StairsWide1x2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4ab11f9fb84026445ae1c2d3d03102d7
+    m_Address: Assets/Demo/Structures/Wall6x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3775ef0a0662a4b499a42bb5788b1211
+    m_Address: Assets/Demo/Structures/WallHuge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 2288e183f9140ee46b9c2e4103adee0e
+    m_Address: Assets/Demo/Structures/WallHuge02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3140c5172e918c143ba56b1d1b147f0a
+    m_Address: Assets/Demo/Stonework/WallTallLong01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: ab04f85ac9b36c54d845c19b3dda4fe2
+    m_Address: Assets/Demo/Stonework/PlatformLong.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 7c9e250f51b7948429e2f33219215656
+    m_Address: Assets/Demo/Stonework/WallCornerBig01Broken 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: c35ecf082429fea469321753b1a5ecc5
+    m_Address: Assets/Demo/Stonework/PlatformSupportShort.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 747c26aa13a61594fbe70d86669e1a63
+    m_Address: Assets/Demo/Stonework/FloorPanel2x2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: c350a261356d02746b4c7b6b853c49d1
+    m_Address: Assets/Demo/Stonework/FloorCircular02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: db975ac197c3a524eaedeba6e7c819e4
+    m_Address: Assets/Demo/Stonework/WallTallShort01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 356e6c10827e78343b8ba4732f6298be
+    m_Address: Assets/Demo/Stonework/WallShort01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 47c6767f33a58df4abe670b6fe6e970d
+    m_Address: Assets/Demo/Stonework/FloorPanel2x1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 8a83a38845908f54d9f7e4c1e882b819
+    m_Address: Assets/Demo/Stonework/PlatformEdge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 50879b510a56aa643829dadee92e78ae
+    m_Address: Assets/Demo/Stonework/WallCorner02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 261832a571225ac41a21799951f189e8
+    m_Address: Assets/Demo/Stonework/WallLong01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6f12af52236febf44b28c4fe7fb4ff4f
+    m_Address: Assets/Demo/Stonework/WallLong02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4886a50a7184e28418addb3e071f19ee
+    m_Address: Assets/Demo/Stonework/StairsWide01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 88228f59af41d9541b48e384607febe5
+    m_Address: Assets/Demo/Stonework/WallShort02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f6b23134fd9e95d4eb1d38d941b5c807
+    m_Address: Assets/Demo/Stonework/WallCorner01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: deb88dfc63631e8409cde9d47f8e1b95
+    m_Address: Assets/Demo/Stonework/WallHuge02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4089a4327c495274d89ab478d4d59f4b
+    m_Address: Assets/Demo/Stonework/GateHuge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 7067034143693214e8acfa6213478505
+    m_Address: Assets/Demo/Stonework/WallHuge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 690dea58cba0a434d97daa5242e0e288
+    m_Address: Assets/Demo/Stonework/FloorCircular03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 925dfca3b4ed5b944a5dc2b9dfac2f72
+    m_Address: Assets/Demo/Stonework/PlatformEdge02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 2519f50703db9a4498eca5ccf2ab645a
+    m_Address: Assets/Demo/Stonework/PlatformSupportLong.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 0e4aae17fddb5584d8b6119fbba40ed3
+    m_Address: Assets/Demo/Stonework/WallTallCorner01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 97ff29e8b5f376747927d07aed3dd17d
+    m_Address: Assets/Demo/Stonework/WallLong02Broken.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 7326f9e01d1b78b4f9a0dc24b045bdba
+    m_Address: Assets/Demo/Stonework/StairsCircular01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9aa41c2776800b84e8fb8e2f59fafebd
+    m_Address: Assets/Demo/Stonework/FloorCircular01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4f224da5d53b48247a63287d325bf2f3
+    m_Address: Assets/Demo/Stonework/FloorPanel1x1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 98c795a7afe6f0f44a473e695c16a5d1
+    m_Address: Assets/Demo/Stonework/FloorCircular03Broken.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5397f019840a10048baa4b2d98b8df21
+    m_Address: Assets/Demo/Stonework/WallLong01Broken.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4058b61f7783874469afcb2f88130bbc
+    m_Address: Assets/Demo/Stonework/StairsNarrow01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 0d6fe99b5ec6948488420c8ce0d854c6
+    m_Address: Assets/Demo/Stonework/DoorHuge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 8e3a1257230d2914cb1b3c64dc7e909d
+    m_Address: Assets/Demo/Stonework/PlatformDetail.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6cfa1086ba131854782fef34c182d965
+    m_Address: Assets/Demo/Stonework/PlatformShort.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 180fcfa90ee97e140a11a43c54b370fe
+    m_Address: Assets/Demo/Stonework/SmallDoor.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d331355c1a59d174cb03ddf14e36b2c4
+    m_Address: Assets/Demo/Stonework/StairsNarrow01Broken.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9a3b0249188c1234fa424e800409bc2f
+    m_Address: Assets/Demo/Stonework/StairsWide01Broken.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: c33a87e7e183e904ca53e1bf2f0054fe
+    m_Address: Assets/Demo/Stonework/WallCorner01Broken.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 09fe2bb09291d19408cab3b66dcc2f12
+    m_Address: Assets/Demo/Stonework/WallCornerBig01Broken.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 28ac81b967e3af647a58169b4ca8917b
+    m_Address: Assets/Demo/Rock/RockChunk01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f5bd45ce36785ee438611c8122304386
+    m_Address: Assets/Demo/Rock/SmallRock03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 65194f4f6d2fa7b499d9426fb9ace010
+    m_Address: Assets/Demo/Rock/SmallRock02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: fea365f70814ed347925886d219bdd6a
+    m_Address: Assets/Demo/Rock/RockSwamp01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: ae33cdbea5544a145aec990f5d8c344e
+    m_Address: Assets/Demo/Rock/CliffEdge04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e96082293505ffd458b7aa414b5a6da4
+    m_Address: Assets/Demo/Rock/CliffEdge02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: ae0271f1987760f42b243ff8968dc937
+    m_Address: Assets/Demo/Rock/RockLedge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: cec935077b7f8ba4ea43285a8bd59b40
+    m_Address: Assets/Demo/Rock/SmallRock01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d0063548e49510f488493b14242c4948
+    m_Address: Assets/Demo/Rock/CliffBig03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: b8e88b0dea5ac274687b7726b8d0acce
+    m_Address: Assets/Demo/Rock/CliffBig02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 2e2e139c47bb3714d8d90a6ff34feefb
+    m_Address: Assets/Demo/Rock/RockFloating01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d206d90a80b605048b2ecfd313645198
+    m_Address: Assets/Demo/Rock/CliffEdge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: da9040936057caa4fb8cd2eb1ee78b26
+    m_Address: Assets/Demo/Rock/Ridge02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 99f568df8d78f814a9b7bf6ce50ab1eb
+    m_Address: Assets/Demo/Rock/RockFloating04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4feb53352c551784b9219c4551564108
+    m_Address: Assets/Demo/Rock/CliffBig01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 45d3e81b163426847bc6b6286d75a9e3
+    m_Address: Assets/Demo/Rock/CliffEdge03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f1a40763e4186f74da7ff7791009d730
+    m_Address: Assets/Demo/Rock/RockLedge02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 71a2f9fde1c1d0f4c8ed59fb4fdf5a72
+    m_Address: Assets/Demo/Rock/Ridge01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9141f281a0b7a8344962a0e677d847a3
+    m_Address: Assets/Demo/Rock/DistantTerrain.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 409a7376f1ca2ed41819e64a9edce2d9
+    m_Address: Assets/Demo/Rock/Monument01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: b1f09b7a7d816da43b23b4ecea20e151
+    m_Address: Assets/Demo/Rock/RockFloating02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 47c3f32edd809594683703cacb16bfe7
+    m_Address: Assets/Demo/Rock/RockFloating03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5c30539ca7fa9d44ca8da9af35018633
+    m_Address: Assets/Demo/Materials/LightsMaterial.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 832771ba0feb6454e9282f386a3aca47
+    m_Address: Assets/Demo/Level/A3_Lights.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 1fa964bbe879bad45b13cd5c007e7059
+    m_Address: Assets/Demo/Level/B5_Destructibles.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 97ba2e10ede53774da077516875e3220
+    m_Address: Assets/Demo/Level/A5_Rocks.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4e0c421fb7cce1d448448e618a31f4f5
+    m_Address: Assets/Demo/Level/B2_SetDressing.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6fa0e412655d2d24ab9e1b83efe509c2
+    m_Address: Assets/Demo/Level/A6_Rocks.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 8bc45019e71dd474b8367933c64e188a
+    m_Address: Assets/Demo/Level/B3_Background.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 88e84ca25f2f4f6499585738ee6c50cc
+    m_Address: Assets/Demo/Level/B1_Vegetation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 0e22873907a74304eb3c9adc065ce977
+    m_Address: Assets/Demo/Level/B6_Enemies.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a77db7a4391f8274db36f1f4aa8ef2a3
+    m_Address: Assets/Demo/Level/B7_Dropship.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 61d15b91d903f544ca925c0b5be37511
+    m_Address: Assets/Demo/Level/A2_Terrain.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: fbc10d0ea672ab340915ce7610d1d68b
+    m_Address: Assets/Demo/Level/A4_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: b1023b22b4614484b99b38b0a4e09716
+    m_Address: Assets/Demo/Level/A1_Skybox.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a1fd85e424f8c6b488de410e2faa1116
+    m_Address: Assets/Demo/Level/B4_Effects.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: ce8d2f6e16e96c0469f5c0f4d6a9b6a6
+    m_Address: Assets/Demo/Level/B8_Ellen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 8cff4fecec1711a45a4a10da29c16cfe
+    m_Address: Assets/Demo/Level/A9_Grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 934567ee4ebb94a42a8436877ef538e1
+    m_Address: Assets/Demo/Level/A8_Structures.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9af8acbf632196e40a9256b2df398262
+    m_Address: Assets/Demo/Level/A7_Rocks.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d6e958b3fd6ed8a4a86879ba84b23a1c
+    m_Address: Assets/Demo/Dropship/Dropship.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 18da08da9c279494e87f918ddfd4197b
+    m_Address: Assets/Demo/Materials/Environment/Rock/RockChunk01_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 2a8b76488fd1340459de8f96ea4eb868
+    m_Address: Assets/Demo/Materials/Environment/Rock/RockFloating03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: fe425a2fd02d81a4a8cffb98bd444c5d
+    m_Address: Assets/Demo/Materials/Environment/Rock/RockSwamp01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: dddb14a0dd9e90c4392af5b67f34ca7f
+    m_Address: Assets/Demo/Materials/Environment/Rock/CliffEdge04_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 0cf7d47a45bcd864dba9d726d788a924
+    m_Address: Assets/Demo/Materials/Environment/Rock/CliffEdge02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 00036c34b5ae386428e7e2e5470124e9
+    m_Address: Assets/Demo/Materials/Environment/Rock/RockLedge01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 7abcaabf588cc994d9e779dedd12f1dc
+    m_Address: Assets/Demo/Materials/Environment/Rock/CliffBig03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: bb85f42a6fb68ed4f8156a440dff2b79
+    m_Address: Assets/Demo/Materials/Environment/Rock/CliffBig02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 40cfcebf1ef55f74092c951f459bc5c5
+    m_Address: Assets/Demo/Materials/Environment/Rock/RockFloating01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6f0341037674d6f46bf972bcfd328255
+    m_Address: Assets/Demo/Materials/Environment/Rock/CliffEdge01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 2ccd8bf1a9f046849b58082f96cb9ceb
+    m_Address: Assets/Demo/Materials/Environment/Rock/Ridge02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3ef81e43f26c03a48a716c889d201861
+    m_Address: Assets/Demo/Materials/Environment/Rock/RockFloating04_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3311bbf097e3ee64ebed88f09c6e5ec1
+    m_Address: Assets/Demo/Materials/Environment/Rock/CliffBig01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 30b0f587813f86c44b82c48c7733af87
+    m_Address: Assets/Demo/Materials/Environment/Rock/CliffEdge03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: c9fde8d2b739edb458fbb07e275f81d4
+    m_Address: Assets/Demo/Materials/Environment/Rock/Ridge01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a997cca723ebe0f49ae9612bde2c80f4
+    m_Address: Assets/Demo/Materials/Environment/Rock/RockLedge02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3b01d315743ae97459ca3d3bd461e4be
+    m_Address: Assets/Demo/Materials/Environment/Rock/RockFloating02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 90e39ea319bf0e743bb5ad14c920182b
+    m_Address: Assets/Demo/Materials/Environment/Rock/Distant_Terrain_02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: fc0e77f5aef3d184f9195be79bd31eeb
+    m_Address: Assets/Demo/Materials/Environment/Stonework/Platform_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e9e5eb9afbdaf2041bf7d9e26bbc1b6e
+    m_Address: Assets/Demo/Materials/Environment/Stonework/GrenadierStatue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3af198a8305bde54aaa85d2e3fe11c74
+    m_Address: Assets/Demo/Materials/Environment/Stonework/GateHuge01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: aa21bc8da8405dd4a82fb23c3779d08e
+    m_Address: Assets/Demo/Materials/Environment/Stonework/DoorHuge01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3c82a8aa07a59ce478ec8ae1fc400584
+    m_Address: Assets/Demo/Materials/Environment/Stonework/Statue_Mossy_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 326d338815570844bba9082517b13153
+    m_Address: Assets/Demo/Materials/Environment/Stonework/Wall01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d38a57c924e0bca4f99693b01ea4fea6
+    m_Address: Assets/Demo/Materials/Environment/Stonework/WallTall_Long_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 2cd607346dbd37f41a37f41616cd5cb1
+    m_Address: Assets/Demo/Materials/Environment/Stonework/Wall02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: e197c91a5a0658e45855058cc6570ce5
+    m_Address: Assets/Demo/Materials/Environment/Stonework/WallCornerBig01Broken_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 96b29c39d6e3d5c4a8bf9c1b9baeac8d
+    m_Address: Assets/Demo/Materials/Environment/Stonework/FloorPanel03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: b4d52da8c0d97f841be80b861af24164
+    m_Address: Assets/Demo/Materials/Environment/Stonework/FloorCircular02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: bb838f9031e07084ba7dedfcce8cc557
+    m_Address: Assets/Demo/Materials/Environment/Stonework/WallTall_Short_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 80fada4b65ca27e40b0391b92c8fe136
+    m_Address: Assets/Demo/Materials/Environment/Stonework/StairsWide_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: ed1d61f09b842f64f9eb2410a19ffe19
+    m_Address: Assets/Demo/Materials/Environment/Stonework/Wall02Broken_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 811ad1a44bf374746a16997613754b11
+    m_Address: Assets/Demo/Materials/Environment/Stonework/Statue_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 33b20ee5df496994b9fb18a571448a2d
+    m_Address: Assets/Demo/Materials/Environment/Stonework/WallHuge02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: aeba2987925798e4a8401bfd77cd1284
+    m_Address: Assets/Demo/Materials/Environment/Stonework/StairsExtension_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3f63094f480a91f43889dd69c30540a2
+    m_Address: Assets/Demo/Materials/Environment/Stonework/WallHuge01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9dfa8e231f9684b489b86a4b74cba739
+    m_Address: Assets/Demo/Materials/Environment/Stonework/FloorCircular03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 8491ec434f8e32f4f9fc6839ffa24121
+    m_Address: Assets/Demo/Materials/Environment/Stonework/FloorCircular01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: c8ce8ac43d3b78949ab5b0c47900a62c
+    m_Address: Assets/Demo/Materials/Environment/Stonework/WallTall_Corner_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: ac4bc75e76feb8042ab5161e3e1b0554
+    m_Address: Assets/Demo/Materials/Environment/Stonework/FloorCircular03Broken_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: adb337a478630cf4c91511a0dc9dc393
+    m_Address: Assets/Demo/Materials/Environment/Stonework/MovingPlatform_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6301438681abcdd4081173f72ff42803
+    m_Address: Assets/Demo/Materials/Environment/Stonework/StairsCircular01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 049606f690e98a949bc26f5a5c210b4d
+    m_Address: Assets/Demo/Materials/Environment/Stonework/StairsNarrow01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5caf37f41fd93d443a82f2fd01a16358
+    m_Address: Assets/Demo/Materials/Environment/Stonework/StairsNarrow01Broken_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5a0c1b5b20deb5340b82c3aa4b716c73
+    m_Address: Assets/Demo/Materials/Environment/Stonework/StairsWideBroken_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5d83db080be59c44d937740c3464c256
+    m_Address: Assets/Demo/Materials/Environment/Stonework/Wall01Broken_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5cd2525bc73586347b2d4114aaad788e
+    m_Address: Assets/Demo/Materials/Environment/Stonework/SmallDoor_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 205bc242ff2fee443a22e249009d9c41
+    m_Address: Assets/Demo/Materials/Environment/VegetationL/VegetationLarge05_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 71aab5c4da545394d98ddfc9835e12db
+    m_Address: Assets/Demo/Materials/Environment/VegetationL/VegetationLarge07_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: fa36871593e539b49b6b2a691b8237d2
+    m_Address: Assets/Demo/Materials/Environment/VegetationL/VegetationLarge03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: eb3b7fbde3d6cbe469c673216b4cd274
+    m_Address: Assets/Demo/Materials/Environment/VegetationL/VegetationLarge02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9837bc8d745123a41b80f8b8f1fd6b86
+    m_Address: Assets/Demo/Materials/Environment/VegetationL/VegetationLarge01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 619565ea3e5275b40b150c832fc06191
+    m_Address: Assets/Demo/Materials/Environment/VegetationL/VegetationLarge04_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5fac63113818f62469196bbb4d59cf7f
+    m_Address: Assets/Demo/Materials/Environment/VegetationL/VegetationLarge06_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 366d0f093ed88894bbc06ba947fa8d34
+    m_Address: Assets/Demo/Materials/Environment/VegetationM/VegetationMedium03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 43ce1333640909546895d8ccb1b70cc1
+    m_Address: Assets/Demo/Materials/Environment/VegetationM/VegetationMedium04_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 1423617100caad14882abf111602ec4d
+    m_Address: Assets/Demo/Materials/Environment/VegetationM/VegetationMedium01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: fa0793e3c33682d42ab47e6a5c969be0
+    m_Address: Assets/Demo/Materials/Environment/VegetationM/VegetationMedium02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: aa387c8d5aebdc64392b021db5d2471a
+    m_Address: Assets/Demo/Materials/Environment/VegetationM/VegetationMedium05_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: bedaa9f893bcd4149a465fbcce1ccc55
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/Hanging_Moss_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 6b50833ee3cb96c459e29fd78fbee948
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall01_Glowing.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: b345939ea62931547acd63bcd5b485e9
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/Vine_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 7e0b7e421297cbb4cae0bb0da948f573
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/Grass_02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 348479891f8fb7541a5bcff4186dcfb0
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/Ground_Cover_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5efb96c2e1892fd4db5e59e62a7b8d28
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/Grass_01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 30c74dfc1deb0aa4db33e6f1b48b8e74
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall04_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 644c4d990d0ad604db9961f895c8b9f9
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 896bbfa91dbcbf042994a7e983a4df10
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 69b66e8d122102447a3efef05f08d8b1
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall07_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d26378d7be0d13f468c0ddf749479579
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5405f4473c846ef408c58df310ad92d3
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall06_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 5bb53fb18666e0648adc18fe37ef26fd
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall05_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 818da8cc54db9d04c87f140f62564f6b
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/Fungus_Green_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9afac42e3a1d9d04d8cf1945f1cd04bf
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/Fungus_Red_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 427b5a116a8ebe64fbdad4bd862c7d37
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/Grass_03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d376df56b7d6a0d48b993388bd197827
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall01_MidGlow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d956f2ebefac9914a922b5e8a47b41c7
+    m_Address: Assets/Demo/Materials/Environment/VegetationS/VegetationSmall03_02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 0d4e6c75c9a69134fa04c131f36c9381
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_Ground_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3b4214d336437364db2154a6c39262da
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d0d3d3d5219294041aa2e081b86575a0
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_Template_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 19cd71a22ceaf4840a18d498e2678dd0
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 992eb64f380566f49853dd9c88365e2b
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_Fog_01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 193cba577718ed64cb8f68a03a3b1ec1
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_Fog_02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a9597be44f019814f96c76c1acb058e2
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_Fog_03_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 43b919dae2fad4e20b478ea9a5844dd5
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_Shadow_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f549b20d7ef429b448d706445924d923
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_Simple_01_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: accc649002a06be4ebfda0e38dc4bb6f
+    m_Address: Assets/Demo/Materials/Environment/Water/Water_Simple_02_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 0201978960802b942850f9f3b822909d
+    m_Address: Assets/Demo/Materials/Creatures/Firefly/Firefly_Blue_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: c9f310f368569c34caf013739d700bea
+    m_Address: Assets/Demo/Materials/Creatures/Firefly/Firefly_Red_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: cc01bf1e5dbd3c4438c0e08716805c01
+    m_Address: Assets/Demo/Materials/Creatures/Firefly/Firefly_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 60915bb974954674e938fd9c5993ed3f
+    m_Address: Assets/Demo/Materials/Creatures/EelDog/Eeldog_Yellow_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d9bb4aa9ed5eda342846e05ea0c085b4
+    m_Address: Assets/Demo/Materials/Creatures/EelDog/Eeldog_Green_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 52175700b31111243ab6f094e019f7bd
+    m_Address: Assets/Demo/Materials/Creatures/EelDog/Water_Ripple_Particle_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: fe8c81117a63da845aac12d903fe4f0a
+    m_Address: Assets/Demo/Materials/Creatures/EelDog/Water_Splash_Particle_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: dad26cc8af5eca141b973d06942e6efb
+    m_Address: Assets/Demo/Materials/Characters/Chomper/Chomper_Body_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 4b16268047716604e8906338172a7efa
+    m_Address: Assets/Demo/Materials/Characters/Chomper/Chomper_Internals_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: bf0a27f819105a447b57ddb2ba3628cd
+    m_Address: Assets/Demo/Materials/Characters/Chomper/Chomper_Eyes_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 3e3ab0a89c44e6f4aaeaae2f672efd6d
+    m_Address: Assets/Demo/Materials/Characters/Ellen/Ellen_Hair_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 46ba9be6c4545f148aeea969a1f0bc1b
+    m_Address: Assets/Demo/Materials/Characters/Ellen/Ellen_Body_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9ccf8b1016d42a84b953222267c693d9
+    m_Address: Assets/Demo/Materials/Characters/Ellen/Ellen_Head_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: fc14fcaf3cd73e641b94b89c70ce5f11
+    m_Address: Assets/Demo/Materials/Characters/Ellen/Ellen_Eyes_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: f4c868f611aae16448d369b0bf66a723
+    m_Address: Assets/Demo/Materials/Characters/Ellen/Ellen_Tear_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a022c48ded93f264c83844268add12a9
+    m_Address: Assets/Demo/Materials/Characters/Ellen/Ellen_EyeLash_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: bbbf9df415254ae468d2cdc15d0b17bd
+    m_Address: Assets/Demo/Materials/Characters/Ellen/Ellen_Body_Dirty_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 9331b0723c193e8499bc184d8962be20
+    m_Address: Assets/Demo/Materials/Characters/Ellen/Ellen_Head_Dirty_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 39cc7989f799e874faf6589aeedb34f5
+    m_Address: Assets/Demo/Materials/Characters/Grenadier/Grenadier_Eye_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 48c4ba26d842cdb4786ed2bb55ab481c
+    m_Address: Assets/Demo/Materials/Characters/Grenadier/Grenadier_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: a9bec445b198dd7458fcd489957a26b0
+    m_Address: Assets/Demo/Materials/Characters/Grenadier/Grenadier_Core_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 19ee9df38341f9642a25c84fb2ab0cc7
+    m_Address: Assets/Demo/Materials/Characters/Gunner/Gunner_Core_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: d6c243dd01521594e90dc95ef6d1f4ff
+    m_Address: Assets/Demo/Materials/Characters/Gunner/Gunner_Eye_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 20d4e37beb23c7b4ba90e9fe6b540767
+    m_Address: Assets/Demo/Materials/Characters/Gunner/Gunner_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: 0ef55e615d8ada44085ccce2062b647d
+    m_Address: Assets/Demo/Materials/Characters/Spitter/Spitter_Body_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  - m_GUID: efa78f1bee0a9f74599a70f34134c235
+    m_Address: Assets/Demo/Materials/Characters/Spitter/Spitter_Internals_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Importable
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5b7491c2a4707ac4ba835abb7756d2a2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7e7fd72e189335b49ae81bc96b13fa72, type: 2}
+    - {fileID: 11400000, guid: d26b6ca9b2c9b194a9d31f35861a4b38, type: 2}
