@@ -6,6 +6,6 @@ You can watch the video [here](https://www.youtube.com/watch?v=DXWriLgrWdE)
 
 The repository is based on the [Unity 3D Game Kit](https://assetstore.unity.com/packages/templates/tutorials/unity-learn-3d-game-kit-115747)
 
-Note: this repository use Git LFS, look up how to install git lfs for your computer before cloning the repository or you won't get the large files
+**Note: this repository use Git LFS, look up how to install git lfs for your computer before cloning the repository or you won't get the large files**
 
 
